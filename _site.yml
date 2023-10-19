@@ -13,4 +13,4 @@ navbar:
       href: http://github.com/camilleokonkwo/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
