@@ -32,7 +32,7 @@ Happy Birthday Connie!.
 
 # Other stuff on this page
 
-Definitely there is [plotly](potly.html) stuff!
+Definitely there is [plotly](plotly.html) stuff!
 
 
 
