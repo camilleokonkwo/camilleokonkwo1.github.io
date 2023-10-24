@@ -6,7 +6,9 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Projects"
-      href: projects.html
+      href: project.html
+    - text: "Plotly"
+      href: plotly.html 
     - icon: fa-envelope fa-lg
       href: mailto:camille.okonkwo@columbia.edu
     - icon: fa-github fa-lg

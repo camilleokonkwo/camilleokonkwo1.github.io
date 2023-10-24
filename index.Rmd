@@ -30,6 +30,9 @@ Happy Birthday Connie!.
 
 ![](images/ted.webp)
 
+# Other stuff on this page
+
+Definitely there is [plotly](potly.html) stuff!
 
 
 
