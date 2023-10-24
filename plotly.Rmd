@@ -64,6 +64,23 @@ nyc_airbnb |>
   mutate(neighbourhood = fct_reorder(neighbourhood, n)) |> 
   plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood,
           type = "bar", colors = "viridis")
-  
- ```
+```
+
+
+## ggplotly
+
+We are encouraged to almost never use lol!
+- Because the quality of the graphic is not as good.
+
+```{r}
+ggp_scatter =
+  nyc_airbnb |> 
+  ggplot(aes(x = lat, y = long, color = price)) +
+  geom_point(alpha = .5)
+
+ggplotly(ggp_scatter)
+```
+
+
+
 
